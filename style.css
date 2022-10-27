@@ -40,12 +40,12 @@ a:hover{
     margin-bottom: 10px;
 }
 .cuadro-menu{
-    border: 2px solid #000000;
+    border: 3px solid #50250e;
     padding: 6px;
     margin: 10px;
     font-size: 25px;
     height: 130px;
-    background-color: rgb(228, 228, 228);
+    background-color: rgb(253, 208, 164);
 }
 .texto-cuadro{
     color: rgb(55, 55, 55);
